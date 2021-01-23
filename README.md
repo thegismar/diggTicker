@@ -1,6 +1,6 @@
 # Digg Ticker
 
-Get free web3 node access through infura: https://infura.io -> register -> settings -> keys -> http endpoints for mainnet -> that will be the "<INFURA HOST URL>" 
+Get free web3 node access through infura: https://infura.io -> register -> settings -> keys -> http endpoints for mainnet -> that will be the "INFURA HOST URL" 
 
 Next steps:
 
