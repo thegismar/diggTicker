@@ -1,0 +1,7 @@
+eth-brownie>=1.13.0
+
+pip~=20.3.3
+py~=1.10.0
+setuptools~=51.3.3
+plotly~=4.14.3
+pandas~=1.2.1
