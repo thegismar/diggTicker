@@ -6,7 +6,7 @@ import os
 load_dotenv()
 
 w3 = os.getenv( 'WEB3_PROVIDER' )
-network.connect( 'w3 ' )
+network.connect( w3 )
 
 i = '0x9a13867048e01c663ce8ce2fe0cdae69ff9f35e3'
 
